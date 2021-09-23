@@ -4,8 +4,7 @@ Bot para farmar pontos do Passe de Batalha do TFT
 
 ## Descrição
 
-A cada partida de tft jogada você ganha 100 pontos no passe, porém você não precisa jogar a partida toda, basta jogar até a rodada 3-4 e dar surrender. O bot irá dar queue, aceitar a partida
-jogar até a rodada 3-4, dar surrender e dar play again. Também irá reconectar caso por algum motivo sua partida caia.
+A cada partida de tft jogada você ganha 100 pontos no passe, porém você não precisa jogar a partida toda, basta jogar até a rodada 3-4 e dar surrender. O bot irá dar queue, aceitar a partida, jogar até a rodada 3-4, dar surrender e dar play again. Também irá reconectar caso por algum motivo sua partida caia.
 
 O bot funciona com reconhecimento de imagens
 
